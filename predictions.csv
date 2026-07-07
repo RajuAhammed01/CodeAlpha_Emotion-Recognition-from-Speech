@@ -1,0 +1,15 @@
+File,Folder,True_Emotion,Predicted_Emotion,Correct
+euphoric.wav,00026029e0--64991b6eef1fe70609d48edc,surprised,sad,False
+joyfully.wav,00026029e0--64991b6eef1fe70609d48edc,joyfully,sad,False
+sad.wav,00026029e0--64991b6eef1fe70609d48edc,surprised,joyfully,False
+surprised.wav,00026029e0--64991b6eef1fe70609d48edc,euphoric,joyfully,False
+euphoric.wav,00026029e0--64991b72e0daf97163c09c66,joyfully,sad,False
+joyfully.wav,00026029e0--64991b72e0daf97163c09c66,euphoric,joyfully,False
+sad.wav,00026029e0--64991b72e0daf97163c09c66,euphoric,sad,False
+surprised.wav,00026029e0--64991b72e0daf97163c09c66,joyfully,sad,False
+euphoric.wav,00026029e0--64991b7fd94c0d5726dec353,sad,sad,True
+joyfully(1).wav,00026029e0--64991b7fd94c0d5726dec353,surprised,sad,False
+joyfully.wav,00026029e0--64991b7fd94c0d5726dec353,surprised,joyfully,False
+sad.wav,00026029e0--64991b7fd94c0d5726dec353,sad,sad,True
+surprised.wav,00026029e0--64991b7fd94c0d5726dec353,sad,sad,True
+euphoric.wav,00026029e0--64991b907f82d9763944eba2,joyfully,sad,False
